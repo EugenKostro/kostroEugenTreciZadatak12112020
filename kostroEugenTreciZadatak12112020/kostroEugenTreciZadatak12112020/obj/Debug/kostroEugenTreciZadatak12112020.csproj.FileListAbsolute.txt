@@ -1,0 +1,7 @@
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\bin\Debug\kostroEugenTreciZadatak12112020.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\bin\Debug\kostroEugenTreciZadatak12112020.exe
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\bin\Debug\kostroEugenTreciZadatak12112020.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\obj\Debug\kostroEugenTreciZadatak12112020.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\obj\Debug\kostroEugenTreciZadatak12112020.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\obj\Debug\kostroEugenTreciZadatak12112020.exe
+C:\Users\Učenik 12\source\repos\kostroEugenTreciZadatak12112020\kostroEugenTreciZadatak12112020\obj\Debug\kostroEugenTreciZadatak12112020.pdb
